@@ -773,6 +773,7 @@ The entries above should be read as a dated editorial snapshot rather than a sin
 - **[PhotoRoom](https://www.photoroom.com/)**: Create product and portrait pictures using only your phone. Remove background, change background and showcase products.
 - **[PhotoGuruAI](https://photoguruai.com/)**: Create professional AI Headshots in various styles.
 - **[Avatar AI](https://avatarai.me/)**: Create your own AI-generated avatars.
+- **[Beautyface](https://beautyface.app)**: AI Photoshoot Generator — turn 1–5 selfies into studio-lit LinkedIn headshots and photoshoots in 1K/2K/4K, with 20 free credits.
 - **[ClipDrop](https://clipdrop.co/)**: Create professional visuals without a photo studio, powered by [stability.ai](https://stability.ai/).
 - **[Lensa](https://lensa-ai.com/)**: AI photo and video editor with effects, retouching, and image enhancement tools.
 - **[RunDiffusion](https://rundiffusion.com/)**: Cloud-based workspace for creating AI-generated art.
